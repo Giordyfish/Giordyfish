@@ -23,14 +23,16 @@
 
 ### 🛠️ Toolbox
 
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Rust-b7410e?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white" alt="Go">
-<img src="https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
-<img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-b7410e?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+</p>
 
 ### 💖 Support
 
